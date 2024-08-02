@@ -4,7 +4,7 @@
     <div class="row my-4">
         <div class="col-lg-7 col-12">
             <div class="custom-block ">
-                <small>Target Hari Ini</small>
+                <small>Target</small>
 
                 <h2 class="mt-2 mb-3">{{ $targethariini }} Batang</h2>
 
